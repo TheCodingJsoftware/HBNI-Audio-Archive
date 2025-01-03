@@ -12,6 +12,6 @@ psycopg2-binary==2.9.9
 PyJWT==2.10.1
 python-dotenv==1.0.1
 requests==2.32.3
-tornado==6.4.1
+tornado==6.4.2
 urllib3==2.2.3
 websockets==13.1
